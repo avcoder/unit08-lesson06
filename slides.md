@@ -55,7 +55,8 @@ transition: slide-left
 
 # Install a UI framework for React-Native
 
-- Create a new React-Native project but try installing and playing with either:
+- Create a new React-Native project `npx create-expo-app helloworld`
+- Installing either:
    - https://reactnativepaper.com/
    - https://reactnativeelements.com/
    
