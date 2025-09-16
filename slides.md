@@ -38,6 +38,7 @@ transition: slide-left
 
 # Recap
 
+- lab tmrw
 - fyi: next week Tues
 1. To deploy to stores, Get a developer account:
    - Apple: $99 per year
