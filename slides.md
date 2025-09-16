@@ -53,6 +53,25 @@ transition: slide-left
 transition: slide-left
 ---
 
+# Splash screen
+
+- Once you are using a developing build and not Expo Go, you can now customize the splash screen and app icon.  All we need to do is configure the updated assets in app.json, prebuild, rebuild.
+- Can create app icon via tools like Figma etc. but need to be a specific size
+  - see https://www.figma.com/community/file/1155362909441341285/expo-app-icon-splash
+- Splash screen must be `1284 x 2778` which will be displayed when app first launches
+  - Replace existing `assets/splash.png` with your new Figma one
+- App icon in iOS: `1024 x 1024` png, no transparency
+  - Replace `assets/icon.png`
+- App icon in Android `1024 x 1024` png, should have either transparency or solid background
+  - Replace `assets/adaptive-icon.png`
+- Update app name in package.json under expo > name
+- Prebuild via `npx expo prebuild --platform ios --clean` (or replace ios with android)
+- Rebuild with `npx expo run:ios` (or replace ios with android)
+
+---
+transition: slide-left
+---
+
 # Install a UI framework for React-Native
 
 - Create a new React-Native project `npx create-expo-app helloworld`
