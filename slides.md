@@ -47,6 +47,17 @@ transition: slide-left
 - Recommendation: if you charge for your app (or even in-app purchases) use business account so you can use a PO box for your address
 - Difference: Must pay $25 to Google when ready to deploy to stores vs Must pay $99 to Apple just to generate certificates to run on physical device
 
+
+---
+transition: slide-left
+---
+
+# Install a UI framework for React-Native
+
+- Create a new React-Native project but try installing and playing with either:
+   - https://reactnativepaper.com/
+   - https://reactnativeelements.com/
+   
 ---
 transition: slide-left
 ---
@@ -261,15 +272,6 @@ confettiRef?.current?.start(); // run this perhaps in an onPress handler somewhe
 />
 ```
 
----
-transition: slide-left
----
-
-# Install a UI framework for React-Native
-
-- Create a new React-Native project but try installing and playing with either:
-   - https://reactnativepaper.com/
-   - https://reactnativeelements.com/
 
 
 ---
