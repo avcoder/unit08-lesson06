@@ -19,7 +19,9 @@ mdc: true
 # React Native
 Mobile Development: Unit 08 - Lesson 06
 
-- [ ] 
+- [ ] Install a UI framework
+- [ ] Continue playing with expo APIs: media, speech, sensors etc.
+- [ ] Guest Speaker: Dion Tu
 
 <div class="abs-br m-6 text-xl">
   <a href="https://github.com/slidevjs/slidev" target="_blank" class="slidev-icon-btn">
@@ -35,6 +37,16 @@ transition: slide-left
 ---
 
 # Recap
+
+---
+transition: slide-left
+---
+
+# Install a UI framework for React-Native
+
+- Create a new React-Native project but try installing and playing with either:
+   - https://reactnativepaper.com/
+   - https://reactnativeelements.com/
 
 ---
 transition: slide-left
@@ -85,16 +97,6 @@ transition: slide-left
 - He has graciously given us 20 to 30 minutes of Q&A
 - Ask him anything 
 
----
-transition: slide-left
----
-
-# Exercise: UI frameworks for React-Native
-
-- Create a new React-Native project but try installing and playing with:
-   - https://reactnativepaper.com/
-   - https://reactnativeelements.com/
-s
 
 ---
 transition: slide-left
