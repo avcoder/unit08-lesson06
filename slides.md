@@ -342,11 +342,19 @@ transition: slide-left
 # Homework
 
 - Start working on your Mobile Assignment 
-   - Other Project Ideas besides note-app:
-      - Maze Game: Use accelerometer to move a ball around a maze
-      - Compass app: Use magnetometer to show real-time compass direction
-      - Step Counter: Approximate steps based on accelerometer spikes
-      - Build a voice memo app
-      - Make a "soundboard" for sound effects or Build a record & playback feature
-      - Create a photo booth
 - Start working on your Capstone planning project
+
+---
+transition: slide-left
+---
+
+# Lab
+Create one of the following as a react-native mobile app
+
+- Maze Game: Use accelerometer to move a ball around a maze
+- Compass app: Use magnetometer to show real-time compass direction
+- Step Counter: Approximate steps based on accelerometer spikes
+- Build a voice memo app
+- Make a "soundboard" for sound effects or Build a record & playback feature
+- Create a photo booth
+- Choose your own idea
