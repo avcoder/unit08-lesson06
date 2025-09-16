@@ -38,15 +38,16 @@ transition: slide-left
 
 # Recap
 
-- Deployment to stores
-1. Get a developer account:
+- fyi: next week Tues
+1. To deploy to stores, Get a developer account:
    - Apple: $99 per year
    - Google: one time fee $25
    - business account: must provide proof
    - individual account: if you charge for your app, your personal address will be made public
 - Recommendation: if you charge for your app (or even in-app purchases) use business account so you can use a PO box for your address
 - Difference: Must pay $25 to Google when ready to deploy to stores vs Must pay $99 to Apple just to generate certificates to run on physical device
-
+2. Deploy to App Store either via: Xcode, Transporter app, `eas submit` > creates app on App Store Connect
+  - Upload to Google Play Console, along with screenshots
 
 ---
 transition: slide-left
