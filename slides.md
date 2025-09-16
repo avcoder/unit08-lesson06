@@ -38,65 +38,14 @@ transition: slide-left
 
 # Recap
 
----
-transition: slide-left
----
-
-# Install a UI framework for React-Native
-
-- Create a new React-Native project but try installing and playing with either:
-   - https://reactnativepaper.com/
-   - https://reactnativeelements.com/
-
----
-transition: slide-left
----
-
-# Develo
-
----
-transition: slide-left
----
-
-# EAS Clou
-
----
-layout: image-right
-transition: slide-left
-image: /assets/dan.png
-backgroundSize: 444px 300px
-class: text-left
----
-
-# 10 minute break
-
-🍦 Cool Tips, Trends and Resources:
-- 🪏 [Why we ditched Next.js](https://northflank.com/blog/why-we-ditched-next-js-and-never-looked-back)
-- ⚡ [content-visibility: auto](https://cekrem.github.io/posts/content-visibility-auto-performance/)
-- 🎭 [React for Two Computers](https://www.youtube.com/watch?v=ozI4V_29fj4)
-- ⚛️ [JSX Over the Wire = RSC](https://overreacted.io/jsx-over-the-wire/)
-- 🍎 [new MAC setup](https://www.swyx.io/new-mac-setup)
-
-
-<br>
-<hr>
-<br>
-
-- 🧪 [Enter anonymous lab questions](https://docs.google.com/forms/d/e/1FAIpQLSevvGARdHQikso-uLqFCO481MABKE5HofuSrlzEPMNQ2ZLykw/viewform?usp=dialog)
-- ℹ️ [Course feedback survey](https://circuitstream.typeform.com/to/ZoyYk7px#course_id=SoftwareAN&instructor=9514)
-
-
----
-transition: slide-left
----
-
-# Guest Speaker: Dion Tu
-
-- When Dion arrives around 8:15pm EST, please turn on your cameras
-- check out his work experience: https://www.linkedin.com/in/diontu/
-- He has graciously given us 20 to 30 minutes of Q&A
-- Ask him anything 
-
+- Deployment to stores
+1. Get a developer account:
+   - Apple: $99 per year
+   - Google: one time fee $25
+   - business account: must provide proof
+   - individual account: if you charge for your app, your personal address will be made public
+- Recommendation: if you charge for your app (or even in-app purchases) use business account so you can use a PO box for your address
+- Difference: Must pay $25 to Google when ready to deploy to stores vs Must pay $99 to Apple just to generate certificates to run on physical device
 
 ---
 transition: slide-left
@@ -311,6 +260,56 @@ confettiRef?.current?.start(); // run this perhaps in an onPress handler somewhe
   fadeOut={true}
 />
 ```
+
+---
+transition: slide-left
+---
+
+# Install a UI framework for React-Native
+
+- Create a new React-Native project but try installing and playing with either:
+   - https://reactnativepaper.com/
+   - https://reactnativeelements.com/
+
+
+---
+layout: image-right
+transition: slide-left
+image: /assets/dan.png
+backgroundSize: 444px 300px
+class: text-left
+---
+
+# 10 minute break
+
+🍦 Cool Tips, Trends and Resources:
+- 🪏 [Why we ditched Next.js](https://northflank.com/blog/why-we-ditched-next-js-and-never-looked-back)
+- ⚡ [content-visibility: auto](https://cekrem.github.io/posts/content-visibility-auto-performance/)
+- 🎭 [React for Two Computers](https://www.youtube.com/watch?v=ozI4V_29fj4)
+- ⚛️ [JSX Over the Wire = RSC](https://overreacted.io/jsx-over-the-wire/)
+- 🍎 [new MAC setup](https://www.swyx.io/new-mac-setup)
+
+
+<br>
+<hr>
+<br>
+
+- 🧪 [Enter anonymous lab questions](https://docs.google.com/forms/d/e/1FAIpQLSevvGARdHQikso-uLqFCO481MABKE5HofuSrlzEPMNQ2ZLykw/viewform?usp=dialog)
+- ℹ️ [Course feedback survey](https://circuitstream.typeform.com/to/ZoyYk7px#course_id=SoftwareAN&instructor=9514)
+
+
+---
+transition: slide-left
+---
+
+# Guest Speaker: Dion Tu
+
+- When Dion arrives around 8:15pm EST, please turn on your cameras
+- check out his work experience: https://www.linkedin.com/in/diontu/
+- He has graciously given us 20 to 30 minutes of Q&A
+- Ask him anything 
+
+
 
 ---
 transition: slide-left
