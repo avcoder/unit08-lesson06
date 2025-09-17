@@ -357,4 +357,4 @@ Create one of the following as a react-native mobile app
 - Build a voice memo app
 - Make a "soundboard" for sound effects or Build a record & playback feature
 - Create a photo booth
-- Choose your own idea
+- OR do at least 1 "Getting Started" from [this list](https://unit06-lesson06.netlify.app/14) or [here](https://unit04-lesson05.netlify.app/16)
